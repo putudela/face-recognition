@@ -4,7 +4,7 @@
 
 Realtime face recognition flutter app.
 
- [Download](https://github.com/Rajatkalsotra/Face-Recognition-with-Flutter/raw/master/FaceRecognition.apk) apk file.
+ [Download](https://github.com/putudela/face-recognition/raw/master/FaceRecognition.apk) apk file.
 
 ## Steps
 
@@ -21,7 +21,7 @@ Convert Tensorflow implementation of [MobileFaceNet](https://github.com/sirius-a
 **Step 1:** Download or clone this repo:
 
 ```
-git clone https://github.com/Rajatkalsotra/Face-Recognition-Flutter.git
+git clone https://github.com/putudela/face-recognition.git
 ```
 
 **Step 2:** Go to project root and execute the following command in console to get the required dependencies: 
